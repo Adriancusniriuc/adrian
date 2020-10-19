@@ -1,16 +1,26 @@
 {
-  "name": "adrian",
+  "name": "adrianc.github.io",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Adriancusniriuc.github.io/adrian",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.11",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0",
+    "gh-pages": "^3.1.0",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3"
   },
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -21,7 +31,7 @@
   },
   "browserslist": {
     "production": [
-      ">0.2%",
+      ">0.2%", 
       "not dead",
       "not op_mini all"
     ],
