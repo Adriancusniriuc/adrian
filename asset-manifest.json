@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/adrian/static/css/main.17271c01.chunk.css",
+    "main.js": "/adrian/static/js/main.9c5eeeb4.chunk.js",
+    "main.js.map": "/adrian/static/js/main.9c5eeeb4.chunk.js.map",
+    "runtime-main.js": "/adrian/static/js/runtime-main.498b17f8.js",
+    "runtime-main.js.map": "/adrian/static/js/runtime-main.498b17f8.js.map",
+    "static/js/2.f327d771.chunk.js": "/adrian/static/js/2.f327d771.chunk.js",
+    "static/js/2.f327d771.chunk.js.map": "/adrian/static/js/2.f327d771.chunk.js.map",
+    "index.html": "/adrian/index.html",
+    "precache-manifest.920cc2ae55856a31f31ad01798df1d6a.js": "/adrian/precache-manifest.920cc2ae55856a31f31ad01798df1d6a.js",
+    "service-worker.js": "/adrian/service-worker.js",
+    "static/css/main.17271c01.chunk.css.map": "/adrian/static/css/main.17271c01.chunk.css.map",
+    "static/js/2.f327d771.chunk.js.LICENSE.txt": "/adrian/static/js/2.f327d771.chunk.js.LICENSE.txt",
+    "static/media/BookClub.jpg": "/adrian/static/media/BookClub.da8e8432.jpg",
+    "static/media/CrimeCheck.jpg": "/adrian/static/media/CrimeCheck.35195b8e.jpg",
+    "static/media/Cuplu1.jpg": "/adrian/static/media/Cuplu1.be255b64.jpg",
+    "static/media/Provocarea.jpg": "/adrian/static/media/Provocarea.4ce515e4.jpg",
+    "static/media/Pubquiz.jpg": "/adrian/static/media/Pubquiz.1549cbda.jpg",
+    "static/media/Snake.jpg": "/adrian/static/media/Snake.6e59dfba.jpg",
+    "static/media/Zanora.jpg": "/adrian/static/media/Zanora.a6b1dd49.jpg",
+    "static/media/ecommerce.jpg": "/adrian/static/media/ecommerce.82b891f1.jpg",
+    "static/media/App.css": "/adrian/static/media/header-background.52ee660e.jpg",
+    "static/media/profilepic.jpg": "/adrian/static/media/profilepic.7087a551.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.498b17f8.js",
+    "static/js/2.f327d771.chunk.js",
+    "static/css/main.17271c01.chunk.css",
+    "static/js/main.9c5eeeb4.chunk.js"
+  ]
+}
