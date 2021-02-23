@@ -3,9 +3,9 @@ import BookClub from "../assets/portfolio/BookClub.jpg";
 import CrimeCheck from "../assets/portfolio/CrimeCheck.jpg";
 import Pubquiz from "../assets/portfolio/Pubquiz.jpg";
 import Snake from "../assets/portfolio/Snake.jpg";
-import Cuplu from "../assets/portfolio/Cuplu1.jpg";
-import Provocarea from "../assets/portfolio/Provocarea.jpg";
-import Zanora from "../assets/portfolio/Zanora.jpg";
+// import Cuplu from "../assets/portfolio/Cuplu1.jpg";
+// import Provocarea from "../assets/portfolio/Provocarea.jpg";
+// import Zanora from "../assets/portfolio/Zanora.jpg";
 import ecommerce from "../assets/portfolio/ecommerce.jpg";
 
 class Portfolio extends Component {
@@ -47,7 +47,7 @@ class Portfolio extends Component {
             </div>
           </div>
 
-          <div className="project">
+          {/* <div className="project">
             <img alt="Project03" src={Zanora} />
 
             <div className="projectlinks">
@@ -77,9 +77,9 @@ class Portfolio extends Component {
                 <br />- Website built for a board game. <br />
               </p>
             </div>
-          </div>
+          </div> */}
 
-          <div className="project">
+          {/* <div className="project">
             <img alt="Project02" src={Provocarea} />
 
             <div className="projectlinks">
@@ -108,9 +108,9 @@ class Portfolio extends Component {
                 <br />- Complex static website with emphasis on CSS3
               </p>
             </div>
-          </div>
+          </div> */}
 
-          <div className="project">
+          {/* <div className="project">
             <img alt="Project01" src={Cuplu} />
 
             <div className="projectlinks">
@@ -139,7 +139,7 @@ class Portfolio extends Component {
                 <br />- Basic one pager website for a motivational speaker
               </p>
             </div>
-          </div>
+          </div> */}
 
           <div className="project">
             <img alt="BookClub" src={BookClub} />
