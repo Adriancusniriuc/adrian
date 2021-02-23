@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d6d6d3a82a5d84acfa1cdc4ee8ebe53",
+    "revision": "a84826c74368698c9827f1afa6df1076",
     "url": "/adrian/index.html"
   },
   {
-    "revision": "595d304a7658a76c2342",
+    "revision": "184b7a8d7287aaead2cb",
     "url": "/adrian/static/css/main.17271c01.chunk.css"
   },
   {
-    "revision": "822c12cbe0643eb82546",
-    "url": "/adrian/static/js/2.f327d771.chunk.js"
+    "revision": "d597eaf079aafea305e2",
+    "url": "/adrian/static/js/2.279fcaa4.chunk.js"
   },
   {
     "revision": "b13e737c23346402089bf79c557ecf58",
-    "url": "/adrian/static/js/2.f327d771.chunk.js.LICENSE.txt"
+    "url": "/adrian/static/js/2.279fcaa4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "595d304a7658a76c2342",
-    "url": "/adrian/static/js/main.9c5eeeb4.chunk.js"
+    "revision": "184b7a8d7287aaead2cb",
+    "url": "/adrian/static/js/main.6d4d9bbc.chunk.js"
   },
   {
     "revision": "8051e4e63297776de0e1",
@@ -32,24 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adrian/static/media/CrimeCheck.35195b8e.jpg"
   },
   {
-    "revision": "be255b64c796558ec87d374668d93465",
-    "url": "/adrian/static/media/Cuplu1.be255b64.jpg"
-  },
-  {
-    "revision": "4ce515e4ee83644258d461ac6e749c58",
-    "url": "/adrian/static/media/Provocarea.4ce515e4.jpg"
-  },
-  {
     "revision": "1549cbda43f5978bbf5c498ce47307f3",
     "url": "/adrian/static/media/Pubquiz.1549cbda.jpg"
   },
   {
     "revision": "6e59dfbaf34a757a0de0a763f7f0a73f",
     "url": "/adrian/static/media/Snake.6e59dfba.jpg"
-  },
-  {
-    "revision": "a6b1dd490461621b7031dd5f8daf1740",
-    "url": "/adrian/static/media/Zanora.a6b1dd49.jpg"
   },
   {
     "revision": "82b891f148d6056cc8b3afc9495c7edc",
